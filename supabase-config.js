@@ -1,0 +1,4 @@
+// supabase-config.js
+
+export const SUPABASE_URL = 'https://dlloupxpnwexddathorg.supabase.co';
+export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRsbG91cHhwbndleGRkYXRob3JnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY1MDIwMDgsImV4cCI6MjAzMjA3ODAwOH0.yIvYuikbfsVhX_2iDOPcQ78UQZ5B4qFoWio6ebmGm58';
