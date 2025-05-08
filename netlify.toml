@@ -1,0 +1,8 @@
+[build]
+  publish = "public"  # Your frontend files directory
+
+[dev]
+  framework = "#static"  # Explicitly declare this is a static site
+  publish = "public"     # Same as build publish
+  targetPort = 3000      # Optional: match your preferred port
+  autoLaunch = false     # Optional: disable browser auto-open
